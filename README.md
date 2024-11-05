@@ -1,4 +1,4 @@
-# Bank-loan-dashboard
+# Bank-loan-dashboard Power bi project
 
 Objective: Create a financial loan dashboard that provides insights on loan distribution, repayment status, delinquency rates, interest rates, and borrower demographics.
 
